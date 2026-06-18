@@ -1,3 +1,7 @@
+<img width="733" height="852" alt="tutorial" src="https://github.com/user-attachments/assets/c6ab427a-ad5f-4742-b6e0-3b810dd1a3bd" />
+
+
+
 # AZURE
 ESTE REPOSITORIO E SOBRE O BANCO DE DADOS DA MICROSOFT AZURE
 # ☁️ Azure Notes
